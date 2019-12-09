@@ -1,0 +1,9 @@
+.list-group-item {
+  position: relative;
+  display: block;
+  padding: .75rem 1.25rem;
+  margin-bottom: -1px;
+  background-color: rgb(244,244,244);
+  border: 1px solid rgba(0,0,0,0);
+}
+
